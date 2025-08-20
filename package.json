@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "push-ab",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/push-ab/defender-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/push-ab/defender-game/issues"
+  },
+  "homepage": "https://github.com/push-ab/defender-game#readme",
+  "keywords": [
+    "game"
+  ]
+}
